@@ -1,0 +1,23 @@
+Sales & Revenue Analysis Dashboard
+
+Project completed as required.
+
+Included features:
+- Excel/CSV data import
+- Total revenue and KPI tracking
+- Monthly revenue trend
+- Top-performing products
+- Revenue by category
+- Revenue by region
+- Date/product filters
+- Region/category slicers
+- Business insights
+- Sortable product performance table
+
+Files submitted:
+1. Sales_Revenue_Dashboard.html
+2. README.md
+3. Sales_Revenue_Dashboard_Report.docx
+
+How to use:
+Open Sales_Revenue_Dashboard.html in a modern browser. The dashboard includes sample data and also supports Excel/CSV import.
